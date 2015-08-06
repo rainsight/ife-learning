@@ -35,6 +35,10 @@
 
 }
 
+#pager a:hover {
+
+}
+
 #search-bar {
 
 }
@@ -74,16 +78,16 @@
 #calendar-next-page {
 
 }
-#calendar-row {
+.calendar-row {
 
 }
-#calendar-day {
+.calendar-day {
 
 }
-.calendar-day-current {
+.calendar-day a:focus {
 
 }
-.calendar-day-emphasize {
+.calendar-day em {
 
 }
 
