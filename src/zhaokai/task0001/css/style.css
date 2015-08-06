@@ -1,7 +1,6 @@
-.clearfix::before, .clearfix::after {
-    display: table;
-    content: " ";
-    clear:both;
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
 }
 html {
     font-size: 12px;
@@ -19,6 +18,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.clearfix::before, .clearfix::after {
+    display: table;
+    content: " ";
+    clear:both;
+}
+
+.content-wrapper {
+    width: 980px;
+    margin: 0 auto;
+}
+
 #header-wrapper {
     position: relative;
     min-width: 980px;

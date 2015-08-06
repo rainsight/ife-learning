@@ -1,0 +1,107 @@
+#main-content {
+    float: left;
+    width: 710px;
+    margin-right: 10px;
+}
+#side-bar {
+    float: left;
+    width: 260px;
+}
+.blog {
+
+}
+.blog-flag-wrapper {
+
+}
+.blog-flag-publish-date {
+
+}
+.blog-flag-article-type {
+
+}
+.blog-title {
+
+}
+.blog-subtitle {
+
+}
+.blog-content {
+
+}
+.blog-publish-date {
+
+}
+#pager {
+
+}
+
+#search-bar {
+
+}
+#search-bar input {
+
+}
+#search-bar button {
+
+}
+
+#article-type-nav {
+
+}
+#article-type-nav li {
+    position: relative;
+}
+#article-type-nav li::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+}
+#article-type-nav li:active {
+
+}
+
+#calendar {
+
+}
+#calendar-prev-page {
+
+}
+#calendar-current-date {
+
+}
+#calendar-next-page {
+
+}
+#calendar-row {
+
+}
+#calendar-day {
+
+}
+.calendar-day-current {
+
+}
+.calendar-day-emphasize {
+
+}
+
+#tags {
+
+}
+#tags-title {
+
+}
+#tags-content {
+
+}
+#tags-content em {
+
+}
+#tags-content i {
+
+}
+#tags-content span {
+
+}
