@@ -1,7 +1,7 @@
 html {
     background-color: #eeeeee;
 }
-.content-wrapper {
+#main-content-wrapper {
     margin-top: 20px;
     margin-bottom: 300px;
 }
@@ -94,6 +94,7 @@ html {
     background-size: 30px;
     font-size: 14px;
     border: 1px solid #ddd;
+    outline: none;
 }
 #search-bar button {
     height: 40px;
@@ -103,6 +104,7 @@ html {
     font-size: 18px;
     color: white;
     background-color: #ddd;
+    outline: none;
 }
 
 #article-type-nav {
